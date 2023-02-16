@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-Some information about you!
+Rogério Crestani
 
-### More Information
+### Contato
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[rogerio.crestani1@gmail.com](mailto:rogerio.crestani1@gmail.com)
