@@ -3,7 +3,7 @@ layout: post
 title: Cyber Morning Call \#227!
 ---
 
-![_config.yml]({{ site.baseurl }}/images/Cyber-Morning-Call-227/cyber-morning-call.jpg)
+![_config.yml]({{ site.baseurl }}/images\posts-images\Cyber-Morning-Call-227\cyber-morning-call.jpg)
 
 1. Relatório da [Eurasia Group](https://www.eurasiagroup.net/) identificou como risco o uso de Inteligência Artificial. O risco se dá pelo uso de IA para manipular a população. Essa prática pode ser utilizada por governos autoritários, partidos políticos autoritários, organizações terroristas, entre outras organizações que precisam do apoio massivo para projetos de poder.
 
