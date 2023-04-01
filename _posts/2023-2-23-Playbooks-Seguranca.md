@@ -103,5 +103,3 @@ Ao ser detectado o incidente:
 1. Limpe e volte o sistema ao seu estado normal.
 2. Prepare um comunicado detalhado e divulgue-o amplamente para evitar futuros ataques desse tipo.
 3. Documente o problema e as ações tomadas, incluindo alterações de política, modificações de processo e alterações de configuração.
-
-### Playbook ataque de injeção SQL
